@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/VladimirMolchanov/server-diplom-project.git
+[submodule "client"]
+	path = client
+	url = https://github.com/VladimirMolchanov/client-diplom-project.git
